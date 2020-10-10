@@ -2,6 +2,8 @@
 
 # Computacion Blanda - Redes neuronales
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Colored_neural_network_es.svg/800px-Colored_neural_network_es.svg.png" title="Genetic" alt="Genetic" align="right" width="250px">
+
 ### Integrantes
 
 - <h3>Andrés Mejía Velez</h3>
