@@ -11,3 +11,20 @@
 - <h3>Andrés Mejía Velez</h3>
 - <h3>Valentina Gomez Isaza</h3>
 - <h3>Santiago Sanchez Pulgarín</h3>
+
+## Instalación
+
+### Clonar el repositorio
+
+- Para clonar el repositorio, utilizar el comando `git clone https://github.com/santiagoSSAA/Taller_redes_neuronales--Computacion_blanda.git`.
+
+### Instalar las librerías
+
+- `sudo apt install python3-pip` para instalar pip para python 3x.
+- `pip3 install numpy` para instalar la librería de numpy.
+- `pip3 install matplotlib` para instalar la librería de matplotlib.
+
+### ejecutar el código
+
+- Una vez clonado el repositorio, ejecutamos el comando `cd ruta_destino/Taller_redes_neuronales--Computacion_blanda.git`
+- cada uno de los ejercicios se ejecuta en el editor de texto a preferencia.
