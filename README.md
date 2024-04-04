@@ -6,12 +6,6 @@
 
 <a href="https://drive.google.com/file/d/1gyPy-rf0ja48_hACC4755PK9yBG70IP8/view">***Taller 2 - enunciado***</a>
 
-### Integrantes
-
-- <h3>Andrés Mejía Velez</h3>
-- <h3>Valentina Gomez Isaza</h3>
-- <h3>Santiago Sanchez Pulgarín</h3>
-
 ## Instalación
 
 ### Clonar el repositorio
